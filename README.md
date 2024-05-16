@@ -10,7 +10,7 @@ Slug is a simple, lightweight, and fast slug generator for Go.
 go get github.com/9ssi7/slug
 ```
 
-## Usslug
+## Usage
 
 ```go
 packslug main
