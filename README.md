@@ -1,22 +1,24 @@
 # Slug
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/9ssi7/slug.svg)](https://pkg.go.dev/github.com/9ssi7/slug) [![Go Report Card](https://goreportcard.com/badge/github.com/9ssi7/slug)](https://goreportcard.com/report/github.com/9ssi7/slug) [![Apache License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Slug is a simple, lightweight, and fast slug generator for Go.
 
 ## Installation
 
 ```bash
-go get github.com/ssibrahimbas/slug
+go get github.com/9ssi7/slug
 ```
 
-## Usage
+## Usslug
 
 ```go
-package main
+packslug main
 
 import (
     "fmt"
 
-    "github.com/ssibrahimbas/slug"
+    "github.com/9ssi7/slug"
 )
 
 func main() {
@@ -30,7 +32,7 @@ func main() {
 
 ## Documentation
 
-Documentation is available at [pkg.go.dev](https://pkg.go.dev/github.com/ssibrahimbas/slug).
+Documentation is available at [pkg.go.dev](https://pkg.go.dev/github.com/9ssi7/slug).
 
 ## Contributing
 
